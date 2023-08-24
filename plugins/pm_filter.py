@@ -109,8 +109,8 @@ async def next_page(bot, query):
 
     btn.insert(0,
         [
-            InlineKeyboardButton("🍁ɢʀᴏᴜᴩ🍁", url="https://t.me/+5zdnXfOqEEwxNjQ1"),
-            InlineKeyboardButton("⚡ᴄʜᴀɴɴᴇʟ⚡", url="https://t.me/qtmve_linkzzZ")
+            InlineKeyboardButton("🍁ɢʀᴏᴜᴩ🍁", url="https://t.me/keerthirequest"),
+            InlineKeyboardButton("⚡ᴄʜᴀɴɴᴇʟ⚡", url="https://t.me/keerthu_offl")
         ]
     )
 
@@ -124,7 +124,7 @@ async def next_page(bot, query):
     # How to Download button
    
     btn.append(
-    [InlineKeyboardButton("🤔𝗛𝗢𝗪 𝗧𝗢 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗🤔", url="https://t.me/Qtmve_link/3"),]
+    [InlineKeyboardButton("🤔𝗛𝗢𝗪 𝗧𝗢 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗🤔", url="https://t.me/keerthu_offl/115"),]
 )
     if n_offset == 0:
         btn.append(
@@ -443,8 +443,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('⚚ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ], [
-            InlineKeyboardButton('⚡ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ ⚡', url='https://t.me/qtmve_linkzzZ'),
-            InlineKeyboardButton('⚡ ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ ⚡', url='https://t.me/+5zdnXfOqEEwxNjQ1')
+            InlineKeyboardButton('⚡ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ ⚡', url='https://t.me/keerthu_offl'),
+            InlineKeyboardButton('⚡ ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ ⚡', url='https://t.me/keerthirequest')
         ], [
             InlineKeyboardButton('‼️ ʜᴇʟᴘ ‼️', callback_data='help'),
             InlineKeyboardButton('📬 ᴀʙᴏᴜᴛ ᴍᴇ 📬', callback_data='about')
@@ -476,7 +476,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons = [[
-            InlineKeyboardButton('🔥ᴜᴩᴅᴀᴛᴇꜱ', url='https://t.me/qtmve_linkzzZ'),
+            InlineKeyboardButton('🔥ᴜᴩᴅᴀᴛᴇꜱ', url='https://t.me/keerthu_offl'),
             InlineKeyboardButton('🥴ꜱᴏᴜʀᴄᴇ', callback_data='source')
         ],[
             InlineKeyboardButton('🎋ʜᴏᴍᴇ', callback_data='start'),
@@ -702,13 +702,13 @@ async def auto_filter(client, msg, spoll=False):
 
     btn.insert(0,
         [
-            InlineKeyboardButton("🍁ɢʀᴏᴜᴩ🍁", url="https://t.me/+5zdnXfOqEEwxNjQ1"),
-            InlineKeyboardButton("⚡ᴄʜᴀɴɴᴇʟ⚡", url="https://t.me/qtmve_linkzzZ")
+            InlineKeyboardButton("🍁ɢʀᴏᴜᴩ🍁", url="https://t.me/keerthirequest"),
+            InlineKeyboardButton("⚡ᴄʜᴀɴɴᴇʟ⚡", url="https://t.me/keerthu_offl")
         ]
     )
     
     btn.append(
-    [InlineKeyboardButton("🤔𝗛𝗢𝗪 𝗧𝗢 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗🤔", url="https://t.me/Qtmve_link/3"),]
+    [InlineKeyboardButton("🤔𝗛𝗢𝗪 𝗧𝗢 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗🤔", url="https://t.me/keerthu_offl/115"),]
 )
     if offset != "":
         key = f"{message.chat.id}-{message.id}"
@@ -757,7 +757,7 @@ async def auto_filter(client, msg, spoll=False):
             **locals()
         )
     else:
-        cap = f"Rᴇǫᴜᴇsᴛᴇᴅ ᴍᴏᴠɪᴇ ɴᴀᴍᴇ : <code>{search}</code>\n\n\n😌 ɪꜰ ᴛʜᴇ ᴍᴏᴠɪᴇ ʏᴏᴜ ᴀʀᴇ ʟᴏᴏᴋɪɴɢ ꜰᴏʀ ɪs ɴᴏᴛ ᴀᴠᴀɪʟᴀʙʟᴇ ᴛʜᴇɴ ʟᴇᴀᴠᴇ ᴀ ᴍᴇssᴀɢᴇ ʙᴇʟᴏᴡ 😌 \n\nᴇxᴀᴍᴘʟᴇ : \n\nᴇɴᴛᴇʀ ʏᴏᴜʀ ᴍᴏᴠɪᴇ ɴᴀᴍᴇ (ʏᴇᴀʀ) ᴛᴀɢ @admin"
+        cap = f"Rᴇǫᴜᴇsᴛᴇᴅ ᴍᴏᴠɪᴇ ɴᴀᴍᴇ : <code>{search}</code>\n\n\n😌 ɪꜰ ᴛʜᴇ ᴍᴏᴠɪᴇ ʏᴏᴜ ᴀʀᴇ ʟᴏᴏᴋɪɴɢ ꜰᴏʀ ɪs ɴᴏᴛ ᴀᴠᴀɪʟᴀʙʟᴇ ᴛʜᴇɴ ʟᴇᴀᴠᴇ ᴀ ᴍᴇssᴀɢᴇ ʙᴇʟᴏᴡ 😌 \n\nᴇxᴀᴍᴘʟᴇ : \n\nᴇɴᴛᴇʀ ʏᴏᴜʀ ᴍᴏᴠɪᴇ ɴᴀᴍᴇ (ʏᴇᴀʀ) ᴛᴀɢ @ADMIN"
     if imdb and imdb.get('poster'):
         try:
             hehe =  await message.reply_photo(photo=imdb.get('poster'), caption=cap[:1024],
