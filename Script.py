@@ -14,7 +14,7 @@ class script(object):
     HOME_BUTTONURL_UPDATES = environ.get("HOME_BUTTONURL_UPDATES", 'https://t.me/qtmve_linkzZ')
     START_TXT = environ.get("START_TXT", '''<b>ʜᴇʏ... {}
     
-ᴍʏ ɴᴀᴍᴇ ɪs <a href=http://t.me/qtmvefilrer_bot><b>ᴍᴀᴅᴀɴ ᴏᴘ x ꜰɪʟᴛᴇʀ ʙᴏᴛ</b></a>
+ᴍʏ ɴᴀᴍᴇ ɪs <a href=http://t.me/qtmvefilrer_bot><b>Keerthi 👸 Queen 👸</b></a>
 
 ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴍᴏᴠɪᴇs/sᴇʀɪᴇs ᴀɴᴅ ʟᴏᴛ ᴍᴏʀᴇ... ᴅᴏɴ'ᴛ ᴡᴀsᴛᴇ ʏᴏᴜʀ ᴛɪᴍᴇ ʙʏ ʟᴏᴏᴋɪɴɢ ᴛᴏ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ.. ᴀᴅᴅ & ᴇɴᴊᴏʏ ᴍᴇʜ ᴘᴏᴡᴇʀ
 
@@ -24,13 +24,13 @@ class script(object):
     ABOUT_TXT = """<b>
 ╭────[ About Meh ]────⍟
 │
-├⍟ Meh Name : <a href=http://t.me/qtmvefilrer_bot><b>ᴍᴀᴅᴀɴ ᴏᴘ x ꜰɪʟᴛᴇʀ ʙᴏᴛ</b></a>
+├⍟ Meh Name : <a href=http://t.me/autofilterbotkeerthioffl_bot><b>ᴍᴀᴅᴀɴ ᴏᴘ x ꜰɪʟᴛᴇʀ ʙᴏᴛ</b></a>
 ├⍟ Owner : <a href=https://t.me/Owner_of_qtmve><b>ᴠᴀɪʀᴀᴍᴜᴛʜᴜ</b></a>
 ├⍟ Version : 𝗤𝗧𝗩𝗦𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 [ Stable ]
-├⍟ Server : <a href=https://t.me/Owner_of_qtmve><b>𝗩𝗔𝗜𝗥𝗔𝗠</b></a>
+├⍟ Server : <a href=https://t.me/Owner_of_qtmve><b>KEERTHU</b></a>
 ├⍟ Language : ᴘʏᴛʜᴏɴ 3
 ├⍟ Framework : ᴘʏʀᴏɢʀᴀᴍ
-├⍟ Developer : <a href=https://t.me/Owner_of_qtmve><b>𝗠𝗨𝗧𝗛𝗨</b></a>
+├⍟ Developer : <a href=https://t.me/Owner_of_qtmve><b>KUTTY</b></a>
 ├⍟ Powered By  : <a href=https://t.me/Owner_of_qtmve><b>ᴍᴀᴅᴀɴ ᴏᴘ</b></a>
 │
 ╰─────────────────────⍟<b>"""
@@ -122,11 +122,11 @@ This module only works for my admins
 <b>᚛› 𝐆𝐫𝐨𝐮𝐩 ⪼ {}(<code>{}</code>)</b>
 <b>᚛› 𝐓𝐨𝐭𝐚𝐥 𝐌𝐞𝐦𝐛𝐞𝐫𝐬 ⪼ <code>{}</code></b>
 <b>᚛› 𝐀𝐝𝐝𝐞𝐝 𝐁𝐲 ⪼ {}</b>
-<b>᚛› 𝐌𝐚𝐝𝐚𝐧 𝐎𝐏 𝐗 𝐅𝐢𝐥𝐭𝐞𝐫 𝐁𝐨𝐭 </b>
+<b>᚛› Keerthi 👸 Queen 👸 </b>
 """
     LOG_TEXT_P = """#𝐍𝐞𝐰𝐔𝐬𝐞𝐫-new 
     
 <b>᚛› 𝐈𝐃⚡ - <code>{}</code></b>
 <b>᚛› 𝐍𝐚𝐦𝐞⚡ - {}</b>
-<b>᚛› 𝐌𝐚𝐝𝐚𝐧 𝐎𝐏 𝐗 𝐅𝐢𝐥𝐭𝐞𝐫 𝐁𝐨𝐭 </b>
+<b>᚛› Keerthi 👸 Queen 👸 </b>
 """
