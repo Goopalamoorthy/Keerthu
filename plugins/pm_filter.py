@@ -108,8 +108,8 @@ async def next_page(bot, query):
 
     btn.insert(0,
         [
-            InlineKeyboardButton("🦞ＳＥＡＲＣＨ 👨‍🏫", url="https://t.me/SAM_DUB_LEEZZA"),
-            InlineKeyboardButton("🍃 ＭＡＩＮ ＨＵＢ 🗽", url="https://t.me/SAM_DUB_LEZHa")
+            InlineKeyboardButton("🦞ＳＥＡＲＣＨ 👨‍🏫", url="https://t.me/keerthirequest"),
+            InlineKeyboardButton("🍃 ＭＡＩＮ ＨＵＢ 🗽", url="https://t.me/keerthu_offl")
         ]
     )
 
@@ -123,7 +123,7 @@ async def next_page(bot, query):
     # How to Download button
    
     btn.append(
-    [InlineKeyboardButton("🤔𝗛𝗢𝗪 𝗧𝗢 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗🤔", url="https://t.me/SAM_DUB_LEZHa"),]
+    [InlineKeyboardButton("🤔𝗛𝗢𝗪 𝗧𝗢 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗🤔", url="https://t.me/keerthu_offl/115"),]
 )
     if n_offset == 0:
         btn.append(
@@ -440,15 +440,15 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await query.answer()
     elif query.data == "start":
         buttons = [[
-            InlineKeyboardButton('⚚ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+            InlineKeyboardButton('♻️ 𝘼𝘿𝘿 𝙈𝙀 𝙏𝙊 𝙔𝙊𝙐𝙍 𝙂𝙍𝙊𝙐𝙋 ♻️', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ], [
-            InlineKeyboardButton('🍃 ＭＡＩＮ ＨＵＢ 🗽', url='https://t.me/SAM_DUB_LEZHa'),
-            InlineKeyboardButton('🦞ＳＥＡＲＣＨ 👨‍🏫', url='https://t.me/SAM_DUB_LEEZZA')
+            InlineKeyboardButton('🍃 ＭＡＩＮ ＨＵＢ 🗽', url='https://t.me/keerthu_offl'),
+            InlineKeyboardButton('🦞ＳＥＡＲＣＨ 👨‍🏫', url='https://t.me/keerthirequest')
         ], [
             InlineKeyboardButton('💥 ＨＥＬＰ 💐', callback_data='help'),
             InlineKeyboardButton('🎋𝕊𝔼𝔼ℕ 𝔸𝔹𝕆𝕌𝕋❄', callback_data='about')
         ], [
-            InlineKeyboardButton('🥴𝔾𝕆ℙ𝔸𝔸𝕃✍️', url='https://t.me/SMD_Owner')
+            InlineKeyboardButton('🥴𝔾𝕆ℙ𝔸𝔸𝕃✍️', url='https://t.me/Owner_of_qtmve')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
@@ -459,13 +459,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await query.answer('𝙿𝙻𝙴𝙰𝚂𝙴 𝚂𝙷𝙰𝚁𝙴 𝙰𝙽𝙳 𝚂𝚄𝙿𝙿𝙾𝚁𝚃')
     elif query.data == "help":
         buttons = [[
-            InlineKeyboardButton('ᴍᴀɴᴜᴇʟ ꜰɪʟᴛᴇʀ', callback_data='manuelfilter'),
-            InlineKeyboardButton('ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ', callback_data='autofilter')
+            InlineKeyboardButton('🍁ＴＡＭＩＬＡＮ☠️', callback_data='manuelfilter'),
+            InlineKeyboardButton('🍀ＫＥＲＡＬＡ💐', callback_data='autofilter')
         ], [
-            InlineKeyboardButton('ᴄᴏɴɴᴇᴄᴛɪᴏɴꜱ', callback_data='coct'),
-            InlineKeyboardButton('ᴇxᴛʀᴀ ᴍᴏᴅꜱ', callback_data='extra')
+            InlineKeyboardButton('☠️ＫＡＬＬＡ☠️', callback_data='coct'),
+            InlineKeyboardButton('🍁ＥＸＡＴＲＡ🍁', callback_data='extra')
         ], [
-            InlineKeyboardButton('ʜᴏᴍᴇ', callback_data='start'),
+            InlineKeyboardButton('🎋ＨＥＬＰ🎋', callback_data='start'),
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
@@ -475,7 +475,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons = [[
-            InlineKeyboardButton('🍃 ＭＡＩＮ ＨＵＢ 🗽', url='https://t.me/SAM_DUB_LEZHa'),
+            InlineKeyboardButton('🍃 ＭＡＩＮ 🗽', url='https://t.me/keerthu_offl'),
             InlineKeyboardButton('👑𝕊𝕆𝕌ℝℂ𝔼🥀', callback_data='source')
         ],[
             InlineKeyboardButton('🍁ℍ𝕆𝕄𝔼🌿', callback_data='start'),
@@ -701,13 +701,13 @@ async def auto_filter(client, msg, spoll=False):
 
     btn.insert(0,
         [
-            InlineKeyboardButton("🦞ＳＥＡＲＣＨ 👨‍🏫", url="https://t.me/SAM_DUB_LEEZZA"),
-            InlineKeyboardButton("⚡🍃 ＭＡＩＮ ＨＵＢ 🗽", url="https://t.me/SAM_DUB_LEZHa")
+            InlineKeyboardButton("🦞ＳＥＡＲＣＨ 👨‍🏫", url="https://t.me/keerthirequest"),
+            InlineKeyboardButton("⚡🍃 ＭＡＩＮ ＨＵＢ 🗽", url="https://t.me/keerthu_offl")
         ]
     )
     
     btn.append(
-    [InlineKeyboardButton("🤔𝗛𝗢𝗪 𝗧𝗢 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗🤔", url="https://t.me/SAM_DUB_LEZHa"),]
+    [InlineKeyboardButton("🤔𝗛𝗢𝗪 𝗧𝗢 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗🤔", url="https://t.me/keerthu_offl/115"),]
 )
     if offset != "":
         key = f"{message.chat.id}-{message.id}"
