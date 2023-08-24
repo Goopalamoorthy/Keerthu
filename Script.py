@@ -24,14 +24,14 @@ class script(object):
     ABOUT_TXT = """<b>
 ╭────[ About Meh ]────⍟
 │
-├⍟ Meh Name : <a href=http://t.me/autofilterbotkeerthioffl_bot><b>ᴍᴀᴅᴀɴ ᴏᴘ x ꜰɪʟᴛᴇʀ ʙᴏᴛ</b></a>
-├⍟ Owner : <a href=https://t.me/Owner_of_qtmve><b>ᴠᴀɪʀᴀᴍᴜᴛʜᴜ</b></a>
-├⍟ Version : 𝗤𝗧𝗩𝗦𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 [ Stable ]
-├⍟ Server : <a href=https://t.me/Owner_of_qtmve><b>KEERTHU</b></a>
-├⍟ Language : ᴘʏᴛʜᴏɴ 3
-├⍟ Framework : ᴘʏʀᴏɢʀᴀᴍ
-├⍟ Developer : <a href=https://t.me/Owner_of_qtmve><b>KUTTY</b></a>
-├⍟ Powered By  : <a href=https://t.me/Owner_of_qtmve><b>ᴍᴀᴅᴀɴ ᴏᴘ</b></a>
+├⍟ Meh Name : <a href=http://t.me/autofilterbotkeerthioffl_bot><b>Keerthi 👸 Queen 👸</b></a>
+├⍟ Owner : <a href=https://t.me/Owner_of_qtmve><b>𝕍𝕒𝕚𝕣𝕒𝕞 Sir🍁</b></a>
+├⍟ Version : ℚ𝕋𝕍𝕊𝕆𝔽𝔽𝕀ℂ𝕀𝔸𝕃 [ Stable ]
+├⍟ Server : <a href=https://t.me/Owner_of_qtmve><b>𝕂𝕖𝕖𝕣𝕥𝕙𝕦❤‍🔥</b></a>
+├⍟ Language : 𝔹𝕐𝕆𝕆𝕋ℍ𝕆ℕ
+├⍟ Framework : 𝔸ℝ𝔼𝔼 ℍ𝔸𝔸
+├⍟ Developer : <a href=https://t.me/Owner_of_qtmve><b>ℚ𝕋𝕄𝕍𝔼 𝕆𝕨𝕟𝕖𝕣 🦞</b></a>
+├⍟ Powered By  : <a href=https://t.me/SMD_Owner><b>𝕄𝔸𝕊𝕋𝔼ℝ😈</b></a>
 │
 ╰─────────────────────⍟<b>"""
     SOURCE_TXT = """<b>𝐂𝐫𝐞𝐚𝐭𝐞 𝐎𝐧𝐞 𝐋𝐢𝐤𝐞 𝐓𝐡𝐢𝐬 💗
